@@ -1,1 +1,1 @@
-# kote
+# kote # useful for all
